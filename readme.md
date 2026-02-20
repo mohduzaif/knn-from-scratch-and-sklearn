@@ -81,3 +81,10 @@ Manually implemented using:
 - Recall
 - F1 Score
 - Confusion Matrix
+
+---
+
+## 👨‍💻 Author  
+**Mohd Uzaif**  
+🎓 *M.Tech (AI & ML), Jamia Millia Islamia University*   
+---
